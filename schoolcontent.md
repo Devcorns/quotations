@@ -1,5 +1,5 @@
 
-Home
+#Home
   Banner with text
   Welcome Text
   Mission & vision
