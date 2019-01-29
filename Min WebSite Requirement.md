@@ -13,7 +13,7 @@ Web Hosting
     2. Domain like ( .com , .org , .co , .info , .co.in )
     3. Storage : 30 GB 
     4. Bandwidth : Unlimited
-    5. Email : 5 
+    5. Email : 1 
     6. Subscription : Every 1Yr
 
 Note: 
